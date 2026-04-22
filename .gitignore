@@ -1,0 +1,21 @@
+# .NET
+bin/
+obj/
+appsettings*.json
+
+# Node / React
+node_modules/
+dist/
+build/
+
+# Go
+bin/
+
+# Logs
+*.log
+
+# Env / secrets
+.env
+*.env
+secrets.json
+*.secret.json
